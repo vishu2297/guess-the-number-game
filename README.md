@@ -1,4 +1,4 @@
 # guess-the-number-game
  
- ![screenshot](https://user-images.githubusercontent.com/65709443/132797228-6a4d2b02-ae08-4127-aed0-f81492b20cb4.png)
+![ScreenShot](https://user-images.githubusercontent.com/65709443/132797389-1e404fbb-d403-407c-9809-e60fcfe9a8a8.png)
 
